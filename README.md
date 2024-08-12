@@ -2,7 +2,7 @@
 
 In the world of fashion retail, accurately categorizing products based on images is essential for inventory management, recommendation systems, and improving the online shopping experience. The Fashion MNIST dataset is commonly used to benchmark models for this task, containing 70,000 grayscale images of 10 different clothing categories (e.g., T-shirts, trousers, and sneakers). As a Machine Learning Engineer, we were tasked to build a deep learning model that could classify these images into their respective categories with high accuracy.<br>
 
-<img src='https://miro.medium.com/v2/resize:fit:1400/0*LRyHZb_JBpuuNVzd' width="400" height="200" align=left></img>
+<img src='https://miro.medium.com/v2/resize:fit:1400/0*LRyHZb_JBpuuNVzd' width="400" height="230" align=left></img>
 During our Analysis, we went through some of the most crucial steps and pointed out some key questions to gain a deeper overview of the business problem. We also went through each phase of the PACE strategy and actively provided detailed explanations.<br>
 The project demonstrated proficiency in machine learning workflows, including data preprocessing, model development, and performance evaluation.
 
