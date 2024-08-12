@@ -1,7 +1,11 @@
+### Fashion Product Recognition in a Retail Store
+
 In the world of fashion retail, accurately categorizing products based on images is essential for inventory management, recommendation systems, and improving the online shopping experience. The Fashion MNIST dataset is commonly used to benchmark models for this task, containing 70,000 grayscale images of 10 different clothing categories (e.g., T-shirts, trousers, and sneakers). As a Machine Learning Engineer, we were tasked to build a deep learning model that could classify these images into their respective categories with high accuracy.<br>
+
 During our Analysis, we went through some of the most crucial steps and pointed out some key questions to gain a deeper overview of the business problem. We also went through each phase of the PACE strategy and actively provided detailed explanations.<br>
 The project demonstrated proficiency in machine learning workflows, including data preprocessing, model development, and performance evaluation.
 
+A general overview:
 - Asked to develop a model that can accurately classify images of fashion items into categories such as T-shirts, trousers, and sneakers
 - Actively collaborated with technical and non-technical stakeholders to understand the business needs and provided a strong solution
 - Designed, implemented, and evaluated a machine learning model capable of classifying fashion items with high accuracy
