@@ -15,7 +15,7 @@ A general overview:
 - Evaluated the models using metrics such as accuracy
 - Applied techniques like dropout and data augmentation to improve the model's generalization capabilities
 - Optimized the model's performance while comparing different algorithms and techniques to find the best approach
-- Achieved an impressive classification accuracy of **91%** on the training set, and an accuracy of above **90%** on the test dataset with the CNN model, which outperformed the other models tested
+- Achieved an impressive classification accuracy of above **91%** on both the training and testing sets with the CNN model, which outperformed the other models tested
 - Gained a deeper understanding of convolutional neural networks and their application in image classification
 - Learned the importance of hyperparameter tuning and how it can significantly impact model performance
 - Recognized the value of iterative testing and model evaluation, as well as the importance of data preprocessing and augmentation in improving model accuracy
